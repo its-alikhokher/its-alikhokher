@@ -100,7 +100,7 @@ I am actively looking for **remote opportunities** where I can contribute, learn
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
   <img width="12" />
@@ -125,8 +125,6 @@ I am actively looking for **remote opportunities** where I can contribute, learn
   <!-- Databases -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mariadb" height="60" alt="mariadb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
 
@@ -154,16 +152,16 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 
 ### 📊 **GitHub Stats:**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=its-alikhokher&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
