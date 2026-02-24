@@ -186,9 +186,3 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 </p>
 
 ---
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/its-alikhokher/its-alikhokher/output/github-contribution-grid-snake-dark.svg" />
-</p>
