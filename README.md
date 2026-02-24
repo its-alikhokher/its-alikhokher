@@ -155,7 +155,7 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 ### 📊 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -163,7 +163,32 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/its-alikhokher">
+    <img width="49%" height="180px"
+         src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/its-alikhokher">
+    <img width="49%" height="180px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="60%"
+       src="https://streak-stats.demolab.com?user=its-alikhokher&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-alikhokher/its-alikhokher/output/github-contribution-grid-snake-dark.svg" />
+</p>
