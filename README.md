@@ -168,7 +168,7 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqsatraiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-ali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
