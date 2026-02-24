@@ -167,22 +167,3 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 </p>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/its-alikhokher">
-    <img width="49%" height="180px"
-         src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&rank_icon=github" />
-  </a>
-  <a href="https://github.com/its-alikhokher">
-    <img width="49%" height="180px"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="60%"
-       src="https://streak-stats.demolab.com?user=its-alikhokher&theme=tokyonight" />
-</p>
-
----
