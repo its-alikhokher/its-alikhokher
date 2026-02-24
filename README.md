@@ -172,11 +172,11 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 <p align="center">
   <a href="https://github.com/its-alikhokher">
     <img width="49%" height="180px"
-         src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" />
+         src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&rank_icon=github" />
   </a>
   <a href="https://github.com/its-alikhokher">
     <img width="49%" height="180px"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&langs_count=8" />
   </a>
 </p>
 
