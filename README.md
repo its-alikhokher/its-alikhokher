@@ -7,7 +7,7 @@
 
 ## 👋 Hi, I'm Ali Raza
 
-🚀 ERPNext & Frappe Full-Stack Developer  
+🚀 ERPNext & Frappe, Full-Stack Developer  
 💡 Building scalable business systems & clean web applications  
 🌍 Open to Remote Opportunities
 
@@ -33,7 +33,7 @@ I enjoy turning complex workflows into simple, efficient software.
 - Workflow Automation
 
 **Frontend**
-- Vue.js
+- Vue.js/ React.js
 - JavaScript
 - HTML5 / CSS3
 - Responsive UI
@@ -88,17 +88,9 @@ I am actively looking for **remote opportunities** where I can contribute, learn
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
 
@@ -110,17 +102,11 @@ I am actively looking for **remote opportunities** where I can contribute, learn
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express.js logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
@@ -138,9 +124,9 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 
   <!-- Databases -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mariadb" height="60" alt="mariadb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
 
@@ -168,15 +154,14 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-alikho&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsatraiq&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-alikhokher&theme=tokyonight" alt="GitHub Streak" /></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsatraiq&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
