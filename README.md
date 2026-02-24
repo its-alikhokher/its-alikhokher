@@ -153,15 +153,17 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 ---
 
 ### 📊 **GitHub Stats:**
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-alikhokher&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-alikhokher&theme=tokyonight" alt="GitHub Streak" /></p>
+  <img src="https://streak-stats.demolab.com?user=its-alikhokher&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
