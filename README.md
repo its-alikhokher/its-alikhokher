@@ -158,8 +158,7 @@ I am actively looking for **remote opportunities** where I can contribute, learn
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-alikhokher&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-alikhokher&theme=tokyonight" alt="GitHub Streak" /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-alikhokher&layout=compact&theme=tokyonight" alt="Top Languages" />
