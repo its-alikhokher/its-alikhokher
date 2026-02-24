@@ -7,7 +7,7 @@
 
 ## 👋 Hi, I'm Ali Raza
 
-🚀 ERPNext & Frappe Full-Stack Developer  
+🚀 ERPNext & Frappe, Full-Stack Developer  
 💡 Building scalable business systems & clean web applications  
 🌍 Open to Remote Opportunities
 
