@@ -2,14 +2,9 @@
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xcho7i.xcho7i&"  />
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&pause=1000&color=00F726&background=FFFFFF00&vCenter=true&width=800&lines=Ali+Raza;Software+Engineer;Techno-Functional+ERPNext+Expert;Frappe+%7C+Python+%7C+Vue.js+%7C+Automation;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
-###
-
-## 👋 Hi, I'm Ali Raza
-
-🚀 ERPNext & Frappe, Full-Stack Developer  
-💡 Building scalable business systems & clean web applications  
-🌍 Open to Remote Opportunities
+💡 Building Rubust & scalable  business systems & clean web applications
 
 ---
 
@@ -70,6 +65,7 @@ I enjoy turning complex workflows into simple, efficient software.
 ## 🤝 Open to Work
 
 I am actively looking for **remote opportunities** where I can contribute, learn, and grow while building impactful systems.
+👯 I’m looking to collaborate on any ERP projects.
 
 📩 **Email:** iamaliraza777@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ali-raza-643520217/
