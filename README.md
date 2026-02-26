@@ -4,7 +4,7 @@
 </div>
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am, </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&color=00BFFF&background=FFFFFF00&vCenter=true&width=800&lines=Ali+Raza;Ali+Raza;Software+Engineer;Techno-Functional+ERPNext+Expert;Full+Stack+WithFrappe+%7C+Python+%7C+Vue.js;Bussiness+Workflow+Automation+Expert;Certified+Erpnext+Consultant;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&weight=300&size=30&duration=2000&color=00BFFF&background=FFFFFF00&vCenter=true&width=800&lines=Ali+Raza;Ali+Raza;Software+Engineer;Techno-Functional+ERPNext+Expert;Full+Stack+With+Frappe+%7C+Python+%7C+Vue.js%7C+React.js;Bussiness+Workflow+Automation+Expert;Certified+Erpnext+Consultant;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 
 💡 Building Rubust & scalable  business systems & clean web applications
