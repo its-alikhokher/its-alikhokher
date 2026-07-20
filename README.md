@@ -12,10 +12,10 @@
 ---
 
 ## 🧠 About Me
-
+Ali Raza
 I am a software professional with strong hands-on experience in **ERPNext/Frappe development**, along with a growing focus on **AI, automation, and data-driven systems**.
 
-With 3+ years of experience, I help businesses design, customize, and optimize ERP solutions that solve real operational problems. My work spans healthcare, government, and business domains, where I focus on clean architecture, performance, and long-term maintainability.
+With 4+ years of experience, I help businesses design, customize, and optimize ERP solutions that solve real operational problems. My work spans healthcare, government, and business domains, where I focus on clean architecture, performance, and long-term maintainability.
 
 I enjoy turning complex workflows into simple, efficient software.
 
