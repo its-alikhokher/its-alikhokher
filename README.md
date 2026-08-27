@@ -19,7 +19,7 @@
 ## 🎯 Focus Areas
 I am a **Techno-Functional ERPNext Expert** with 4+ years of experience in designing, customizing, and optimizing ERP solutions. I specialize in turning complex business workflows into simple, efficient software using **Frappe, Python, Vue.js, Next.js and React.js**.
 
-[ali.dev/about]([https://its-alikhokher.github.io/])
+[ali.dev/about](https://its-alikhokher.github.io/)
 
 ---
 ## 🛠️ Tech Stack Highlights
